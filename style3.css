@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    background: url(Imagem3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    list-style: none;
+    text-decoration: none;
+    font-size: 50px;
+}
